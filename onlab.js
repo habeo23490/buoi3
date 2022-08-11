@@ -25,7 +25,7 @@
   
  /**
 //  * Tính tổng các số tự nhiên trong khoảng từ 1 đến `n`
-//  * @param {number} n Số nguyên dương bất kỳ
+//  * @param {number} n Số nguyên dương bất kỳ.
 //  */
 // function sumOfNumbers(n) {
 //     let total = 0 ;

@@ -10,7 +10,7 @@
 function isPrime(n) {}
 
 /**
- * Tính tổng các số nguyên tố trong khoảng từ 1 đến n
+ * Tính tổng các số nguyên tố trong khoảng từ 1 đến n.
  *
  * @param {number} n Số nguyên dương bất kỳ
  *
